@@ -30,3 +30,9 @@ plugins {
     id 'androidx.navigation.safeargs.kotlin'
 }
 ```
+3. In this project we have used view binding. So inorder to enable the ViewBinding feature in Android Studio 4.0 and above.Invoke the following code snippet inside the android{} body of the gradle file.
+```
+buildFeatures {
+       viewBinding = true
+}
+```
