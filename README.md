@@ -2,7 +2,7 @@
 
 this app is part of Android Study Jams and designed to learn navigation components.
 
-## Application Working
+## Application Demo
 ![app gif](https://user-images.githubusercontent.com/69664213/145993071-83b2d237-cf09-49bc-a0e4-77ee459a62ca.gif)
 
 ## steps to follow:
